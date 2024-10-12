@@ -11,9 +11,9 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 <!-- [![Codecov test coverage](https://codecov.io/gh/syncrosim/rsyncrosim/branch/dev/graph/badge.svg)](https://codecov.io/gh/syncrosim/rsyncrosim?branch=dev) -->
 
 [![Latest
-Release](https://img.shields.io/github/v/release/syncrosim/rsyncrosim-v1?label=Latest%20Release)](https://github.com/syncrosim/rsyncrosim/releases/latest)
+Release](https://img.shields.io/github/v/release/syncrosim/rsyncrosim-v1?label=Latest%20Release)](https://github.com/syncrosim/rsyncrosim-v1/releases/latest)
 [![GitHub
-Version](https://img.shields.io/github/r-package/v/syncrosim/rsyncrosim-v1?label=GitHub%20Version)](https://github.com/syncrosim/rsyncrosim/blob/dev/DESCRIPTION)
+Version](https://img.shields.io/github/r-package/v/syncrosim/rsyncrosim-v1?label=GitHub%20Version)](https://github.com/syncrosim/rsyncrosim-v1/blob/main/DESCRIPTION)
 
 ## About SyncroSim
 
