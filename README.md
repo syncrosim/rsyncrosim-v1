@@ -57,7 +57,7 @@ of model inputs and outputs – in an R script.
 
 -   [Download](https://cran.r-project.org/package=rsyncrosim/) from CRAN
 
--   [Download](https://syncrosim.github.io/rsyncrosim/articles/a06_rsyncrosim_install_github.html)
+-   [Download](https://syncrosim.github.io/rsyncrosim-v1/articles/a06_rsyncrosim_install_github.html)
     from GitHub
 
 ### Getting Started
@@ -65,19 +65,19 @@ of model inputs and outputs – in an R script.
 -   Run the vignettes:
 
     -   [Introduction to
-        `rsyncrosim`](https://syncrosim.github.io/rsyncrosim/articles/a01_rsyncrosim_vignette_basic.html)
+        `rsyncrosim`](https://syncrosim.github.io/rsyncrosim-v1/articles/a01_rsyncrosim_vignette_basic.html)
 
     -   [`rsyncrosim`: introduction to
-        uncertainty](https://syncrosim.github.io/rsyncrosim/articles/a02_rsyncrosim_vignette_uncertainty.html)
+        uncertainty](https://syncrosim.github.io/rsyncrosim-v1/articles/a02_rsyncrosim_vignette_uncertainty.html)
 
     -   [`rsyncrosim`: introduction to
-        pipelines](https://syncrosim.github.io/rsyncrosim/articles/a03_rsyncrosim_vignette_pipelines.html)
+        pipelines](https://syncrosim.github.io/rsyncrosim-v1/articles/a03_rsyncrosim_vignette_pipelines.html)
 
     -   [`rsyncrosim`: introduction to spatial
-        data](https://syncrosim.github.io/rsyncrosim/articles/a04_rsyncrosim_vignette_spatial.html)
+        data](https://syncrosim.github.io/rsyncrosim-v1/articles/a04_rsyncrosim_vignette_spatial.html)
 
     -   [Introduction to `ST-Sim` in
-        `rsyncrosim`](https://syncrosim.github.io/rsyncrosim/articles/a05_rsyncrosim_stsim_vignette.html)
+        `rsyncrosim`](https://syncrosim.github.io/rsyncrosim-v1/articles/a05_rsyncrosim_stsim_vignette.html)
 
 -   View the package
     [documentation](https://cran.r-project.org/package=rsyncrosim/rsyncrosim.pdf)
